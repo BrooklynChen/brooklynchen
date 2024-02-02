@@ -14,7 +14,7 @@
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BrooklynChen&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 🌐 Socials:
+### 🌐 Connect on LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brooklyn-chen) 
 
 ---
