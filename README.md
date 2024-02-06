@@ -22,7 +22,7 @@ Click to watch project video<br>
 ![](https://github-contributor-stats.vercel.app/api?username=BrooklynChen&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ### 🌐 Connect on LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/brooklyn-chen) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brooklyn-chen)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BrooklynChen&icon=0&color=1)](https://visitcount.itsvg.in)
