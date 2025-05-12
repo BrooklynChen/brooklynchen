@@ -3,7 +3,7 @@
 👩🏻‍💻 **M.S. in Data Science** from George Washington University<br>
 📖 **B.B.A. in Statistics** from Tunghai University, Taichung, Taiwan<br>
 
-🌐 **Connect on LinkedIn**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brooklyn-chen)
+🌐 **Connect on LinkedIn**:   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brooklyn-chen)
 
 ---
 
@@ -17,27 +17,27 @@
 <details>
   <summary><strong>📊 RFQ Analyzer</strong></summary>
   <ul>
-    <li>📌 Built with Python, Power BI, and machine learning</li>
-    <li>📈 Automates and enhances analysis of RFQ (Request For Quotation) data</li>
-    <li>🧠 Predicts win probability and delivers interactive dashboards & Excel reports</li>
+    <li> Built with Python, Power BI, and machine learning</li>
+    <li> Automates and enhances analysis of RFQ (Request For Quotation) data</li>
+    <li> Predicts win probability and delivers interactive dashboards & Excel reports</li>
   </ul>
 </details>
 
 <details>
   <summary><strong>⚡️ Energy Demand Forecasting</strong></summary>
   <ul>
-    <li>🔍 Forecasted energy demand (kW) based on KWh, kVARh, and kVAR</li>
-    <li>📊 Applied and evaluated various predictive models</li>
-    <li>⚙️ Developed an optimized forecasting pipeline</li>
+    <li> Forecasted energy demand (kW) based on KWh, kVARh, and kVAR</li>
+    <li> Applied and evaluated various predictive models</li>
+    <li> Developed an optimized forecasting pipeline</li>
   </ul>
 </details>
 
 <details>
   <summary><strong>💾 Database Management System</strong></summary>
   <ul>
-    <li>🎥 <a href="https://www.youtube.com/watch?v=KK2JMGjyQ0c" target="_blank">Watch Project Video</a></li>
-    <li>🧱 Built a database management system with PHP, R Studio, MySQL, HTML, and CSS</li>
-    <li>🖥️ Demonstrated schema design, querying, and data visualization</li>
+    <li> <a href="https://www.youtube.com/watch?v=KK2JMGjyQ0c" target="_blank">Watch Project Video</a></li>
+    <li> Built a database management system with PHP, R Studio, MySQL, HTML, and CSS</li>
+    <li> Demonstrated schema design, querying, and data visualization</li>
   </ul>
 </details>
 
@@ -45,8 +45,6 @@
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BrooklynChen&limit=5&theme=react&combine_all_yearly_contributions=true)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=BrooklynChen&icon=0&color=1)](https://visitcount.itsvg.in)
 
