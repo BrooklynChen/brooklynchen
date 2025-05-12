@@ -51,6 +51,6 @@
 ---
 
 📬 **Let's connect!**  
-If you're interested in collaborating, have questions, or know of a data science opportunity — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/brooklyn-chen)!
+If you're interested in collaborating, have questions, or know of a data science/analyst opportunity — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/brooklyn-chen)!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
