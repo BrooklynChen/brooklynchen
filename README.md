@@ -3,8 +3,7 @@
 👩🏻‍💻 **M.S. in Data Science** from George Washington University<br>
 📖 **B.B.A. in Statistics** from Tunghai University, Taichung, Taiwan<br>
 
-🌐 **Connect on LinkedIn**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brooklyn-chen)
+🌐 **Connect on LinkedIn**  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brooklyn-chen)
 
 ---
 
@@ -20,12 +19,12 @@
   <ul>
     <li>📌 Built with Python, Power BI, and machine learning</li>
     <li>📈 Automates and enhances analysis of RFQ (Request For Quotation) data</li>
-    <li>🧠 Predicts win probability and delivers dashboards & Excel reports</li>
+    <li>🧠 Predicts win probability and delivers interactive dashboards & Excel reports</li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>📊 Energy Demand Forecasting</strong></summary>
+  <summary><strong>⚡️ Energy Demand Forecasting</strong></summary>
   <ul>
     <li>🔍 Forecasted energy demand (kW) based on KWh, kVARh, and kVAR</li>
     <li>📊 Applied and evaluated various predictive models</li>
@@ -34,53 +33,26 @@
 </details>
 
 <details>
-  <summary><strong>💾 Database Management System Project</strong></summary>
+  <summary><strong>💾 Database Management System</strong></summary>
   <ul>
     <li>🎥 <a href="https://www.youtube.com/watch?v=KK2JMGjyQ0c" target="_blank">Watch Project Video</a></li>
-    <li>🧱 Built a mini database management system with PHP, MySQL</li>
+    <li>🧱 Built a database management system with PHP, R Studio, MySQL, HTML, and CSS</li>
     <li>🖥️ Demonstrated schema design, querying, and data visualization</li>
   </ul>
 </details>
 
 ---
 
-## 📈 GitHub Stats
-
-![Brooklyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrooklynChen&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrooklynChen&layout=compact&theme=react)
-
-![Top Repo Contributions](https://github-contributor-stats.vercel.app/api?username=BrooklynChen&limit=5&theme=react&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BrooklynChen&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=BrooklynChen&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
 📬 **Let's connect!**  
 If you're interested in collaborating, have questions, or know of a data science opportunity — feel free to reach out on [LinkedIn](https://www.linkedin.com/in/brooklyn-chen)!
-
-## 📊 RFQ Analyzer:
-RFQ Analyzer is a data analytics tool built with Python, Power BI, and machine learning to automate and enhance the analysis of Request For Quotation (RFQ) data. It streamlines data ingestion, cleans and transforms data, forecasts win probabilities, and outputs detailed business insights via interactive dashboards and Excel reports.
-
-## 📊 Energy Demand Forecasting:
-In this study, I aimed to forecast kW, a dependent variable, using three electricity-related variables: KWh, kVARh, and kVAR. These variables measure energy, power, and reactive power and are commonly used in power system analysis. I used different models to predict kW, evaluated their performance, identified the optimal model, and developed the forecasting function for kW.
-
-## 📊 Database Management System Project:
-Click to watch project video<br>
-<a href="https://www.youtube.com/watch?v=KK2JMGjyQ0c">
-  <img src="https://img.youtube.com/vi/KK2JMGjyQ0c/0.jpg" alt="Database Management System" width="300" height="225">
-</a>
-
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BrooklynChen&limit=5&theme=react&combine_all_yearly_contributions=true)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=BrooklynChen&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
