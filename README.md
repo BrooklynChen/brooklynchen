@@ -15,7 +15,7 @@
 ## 🚀 Projects
 
 <details>
-  <summary><strong>📊 RFQ Analyzer</strong></summary>
+  <summary><strong> RFQ Analyzer</strong></summary>
   <ul>
     <li> Built with Python, Power BI, and machine learning</li>
     <li> Automates and enhances analysis of RFQ (Request For Quotation) data</li>
@@ -24,7 +24,7 @@
 </details>
 
 <details>
-  <summary><strong>⚡️ Energy Demand Forecasting</strong></summary>
+  <summary><strong> Energy Demand Forecasting</strong></summary>
   <ul>
     <li> Forecasted energy demand (kW) based on KWh, kVARh, and kVAR</li>
     <li> Applied and evaluated various predictive models</li>
@@ -33,7 +33,7 @@
 </details>
 
 <details>
-  <summary><strong>💾 Database Management System</strong></summary>
+  <summary><strong> Database Management System</strong></summary>
   <ul>
     <li> <a href="https://www.youtube.com/watch?v=KK2JMGjyQ0c" target="_blank">Watch Project Video</a></li>
     <li> Built a database management system with PHP, R Studio, MySQL, HTML, and CSS</li>
